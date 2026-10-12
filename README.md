@@ -28,5 +28,5 @@ El código está diseñado para ser modular y reproducible, dividido en 4 libret
 * `04_Interpretabilidad_y_Preguntas_Guia.ipynb`: Valores SHAP, dependencia parcial (ICE) e importancia por permutación.
 * `/docs/uso_de_ia.md`: Bitácora de uso de Modelos de Lenguaje (IA) en el desarrollo.
 
-## 💡 Inclusión Financiera
+## Inclusión Financiera
 En lugar de forzar el modelo para fijar primas de seguros ciegos, el algoritmo se propone como una **herramienta de tamizaje y verificación con incertidumbre explícita**. Utilizando el cálculo de distancia a vecinos conocidos, las instituciones financieras pueden validar de forma remota los rendimientos esperados, disminuyendo los costos de inspección en campo para pequeños productores.
